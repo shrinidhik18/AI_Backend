@@ -1,0 +1,6 @@
+flask
+tensorflow-cpu
+pillow
+requests
+numpy
+python-multipart
